@@ -4,8 +4,14 @@
 
 h1, .content, .menu {
   text-align:center;
+  padding: 40px;
+}
+
+.menu {
+  border: 1px solid rgb(233, 124, 124);
 }
 
 .all_view {
-  background-color: rgb(115, 236, 90);
+  background-color: rgb(114, 236, 90);
+  padding: 30px;
 }
