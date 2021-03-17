@@ -7,8 +7,14 @@ h1, .content, .menu {
   padding: 40px;
 }
 
+h1 {
+  font-size: 80px;
+  font-family: sans-serif;
+  color: rgb(238, 44, 125);
+}
+
 .menu {
-  border: 1px solid rgb(233, 124, 124);
+  border: 1px solid rgb(67, 114, 214);
 }
 
 .all_view {
